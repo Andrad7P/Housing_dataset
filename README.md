@@ -1,2 +1,3 @@
 # Housing_dataset
  Predicting house prices using a dataset from Kaggle that includes features like the number of bedrooms, bathrooms, living space size, population, and household price.
+ It helps potential buyers understand fair market prices for properties with specific attributes, making it easier to decide whether a property is priced appropriately. Agents can use the model to help price homes accurately, avoiding underpricing or overpricing. Overall, it solves the problem of estimating housing prices, which can assist various stakeholders in making informed financial decisions regarding real estate.
